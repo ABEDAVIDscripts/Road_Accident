@@ -64,7 +64,18 @@ The dataset is the official statistical publication of the UK Department for Tra
 - View Analysis: [Road Accident Analysis](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 #### Visualization and Dashboard Creation
-- View Dashboard Image: [Dashboard Image](https://drive.google.com/file/d/16u28TKlE8DnmV69L_CePFKpnnaF_hcGu/view?usp=sharing)
-- Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+
+![image](Image/Dashboard.PNG)
+
+- Create an interactive dashboard showcasing all insights.
+- Combine visualizations into a single dashboard for stakeholders:
+  - Doughnut chart showing the severity rate, Casualities by Area/Location and Light Conditions
+  - Casualties by Vehicle Types
+  - Monthly Trends: Line chart comparing casualties for 2021 and 2022.
+  - Bar Chart for casualties by Road Type and Treemap for casualities by Road Surface
+
+
+View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/16u28TKlE8DnmV69L_CePFKpnnaF_hcGu/view?usp=sharing) 
+and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <br>

@@ -1,6 +1,6 @@
-# Road Accident Analysis (Interactive Dashboard with MS Excel)
+# Road Accident Data Analysis And Interactive Dashboard With MS Excel
 
-![image](Image/accident.png)
+![profile image](Image/accident.png)
 
 <BR>
 
@@ -40,11 +40,7 @@ The client requested an interactive dashboard that includes the following insigh
 ### Dataset Overview
 
 #### Dataset
-The dataset is the official statistical publication of the UK Department for Transport (DfT) on traffic casualties, fatalities and related road safety data. The publication first was produced in 1951, is the primary source for data on road casualties in Great Britain.
-
-#### About the Dataset
-
-- **Source**: [Road Accident Data](https://docs.google.com/spreadsheets/d/1y1cXn8qZIZGwWxbHPojfQndpdNcdXweZ/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+- **Source**: [Road Accident Dataset](https://docs.google.com/spreadsheets/d/1y1cXn8qZIZGwWxbHPojfQndpdNcdXweZ/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 - **Total Rows**: 307,974
 - **Column include**: Accident Index, Accident Date, Day of Week, Junction Control, Junction Detail, Accident Severity, Latitude, Light Conditions, Local Authority (District), Carriageway Hazards, Longitude, Number of Casualties, Number of Vehicles, Police Force, Road Surface Conditions, Road Type, Speed_limit, Time,Urban or Rural Area, Weather Conditions, Vehicle Type.
 
@@ -63,9 +59,9 @@ The dataset is the official statistical publication of the UK Department for Tra
 - Casualties by Area/Location & by Day/Night.
 - View Analysis: [Road Accident Analysis](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
-#### Visualization and Dashboard Creation
+#### 3. Visualization and Dashboard Creation
 
-![image](Image/Dashboard.PNG)
+![Dashboard image](Image/Dashboard.PNG)
 
 - Create an interactive dashboard showcasing all insights.
 - Combine visualizations into a single dashboard for stakeholders:
@@ -75,7 +71,7 @@ The dataset is the official statistical publication of the UK Department for Tra
   - Bar Chart for casualties by Road Type and Treemap for casualities by Road Surface
 
 
-View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/16u28TKlE8DnmV69L_CePFKpnnaF_hcGu/view?usp=sharing) 
-and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/1RAQYHndrNr1_FLcdHYsKvdQh0drELTS3/view?usp=sharing) 
+and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1DtI5YA5ux77RReXSQo246VHGcZ59UErs/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <br>

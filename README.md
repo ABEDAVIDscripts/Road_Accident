@@ -55,7 +55,7 @@ The client requested an interactive dashboard that includes the following insigh
 - Analyze trends comparing 2021 and 2022.
 - Identify maximum casualties by road type and surface condition.
 - Casualties by Area/Location & by Day/Night.
-- View Analysis: [Road Accident Analysis](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+- View Analysis: [Road Accident Analysis](https://docs.google.com/spreadsheets/d/1KvNYVLg86--cE9r39EQoaHHcvU8k75Cy/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 #### 3. Visualization and Dashboard
 
@@ -69,8 +69,8 @@ The client requested an interactive dashboard that includes the following insigh
   - Bar Chart for casualties by Road Type and Treemap for casualities by Road Surface
 
 
-View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/1RAQYHndrNr1_FLcdHYsKvdQh0drELTS3/view?usp=sharing) 
-and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1DtI5YA5ux77RReXSQo246VHGcZ59UErs/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/1mar0LY8HZqM0dehDDqUW4oAd-fMRFB2W/view?usp=sharing) 
+and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1KvNYVLg86--cE9r39EQoaHHcvU8k75Cy/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <br>
 

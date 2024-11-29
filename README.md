@@ -73,3 +73,10 @@ View Dashboard Image here: [Dashboard Image](https://drive.google.com/file/d/1RA
 and Interactive Dashboard: [Road Accident Dashboard](https://docs.google.com/spreadsheets/d/1DtI5YA5ux77RReXSQo246VHGcZ59UErs/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
 <br>
+
+### Tools and Technologies
+- Data Cleaning and Analysis: Microsoft Excel
+- Visualization: Excel Charts/Dashboards
+- Documentation and Collaboration: GitHub
+
+<br>

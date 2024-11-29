@@ -59,7 +59,7 @@ The client requested an interactive dashboard that includes the following insigh
 - Casualties by Area/Location & by Day/Night.
 - View Analysis: [Road Accident Analysis](https://docs.google.com/spreadsheets/d/1RmOgiJgMacvBl_bbB4b0ljBx6WzHXC6j/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
 
-#### 3. Visualization and Dashboard Creation
+#### 3. Visualization and Dashboard
 
 ![Dashboard image](Image/Dashboard.PNG)
 

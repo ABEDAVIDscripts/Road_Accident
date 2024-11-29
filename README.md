@@ -10,6 +10,14 @@ This project involves creating a dynamic Road Accident Dashboard using Excel to 
 
 <br>
 
+### Dataset Overview
+
+- **Source**: [Road Accident Dataset](https://docs.google.com/spreadsheets/d/1y1cXn8qZIZGwWxbHPojfQndpdNcdXweZ/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
+- **Total Rows**: 307,974
+- **Column include**: Accident Index, Accident Date, Day of Week, Junction Control, Junction Detail, Accident Severity, Latitude, Light Conditions, Local Authority (District), Carriageway Hazards, Longitude, Number of Casualties, Number of Vehicles, Police Force, Road Surface Conditions, Road Type, Speed_limit, Time,Urban or Rural Area, Weather Conditions, Vehicle Type.
+
+<br>
+
 ### Project Goals
 
 #### Business Requirements
@@ -35,16 +43,6 @@ The client requested an interactive dashboard that includes the following insigh
 - Media
 
 
-<br>
-
-### Dataset Overview
-
-#### Dataset
-- **Source**: [Road Accident Dataset](https://docs.google.com/spreadsheets/d/1y1cXn8qZIZGwWxbHPojfQndpdNcdXweZ/edit?usp=sharing&ouid=100554781607807743501&rtpof=true&sd=true)
-- **Total Rows**: 307,974
-- **Column include**: Accident Index, Accident Date, Day of Week, Junction Control, Junction Detail, Accident Severity, Latitude, Light Conditions, Local Authority (District), Carriageway Hazards, Longitude, Number of Casualties, Number of Vehicles, Police Force, Road Surface Conditions, Road Type, Speed_limit, Time,Urban or Rural Area, Weather Conditions, Vehicle Type.
-
-<br>
 <br>
 
 ### Steps to Complete the Project

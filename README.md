@@ -1,4 +1,4 @@
-# Road Accident Data Analysis And Interactive Dashboard With MS Excel
+# Road Accident Data Analysis And Interactive Visualization With MS Excel
 
 ![profile image](Image/accident.png)
 
